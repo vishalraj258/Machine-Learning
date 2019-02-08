@@ -1,1 +1,2 @@
-The project
+The project was titled Predicting Interview Appearance. Provided a set of features, I had to predict whether a candidate will turn up for the interview or not. This model can be used by a recruiting agency to predict whether a candidate will show up for the interview or not and can inform the recruiting companies beforehand which are going to pay the agency for every candidate that appears for the interview.
+The provided dataset was a comma separated values(.csv) file. It consisted of 23 features and 1234 records.
